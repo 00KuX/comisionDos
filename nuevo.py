@@ -1,1 +1,1 @@
-print("nuevo archivo de la comision 2 de la mañana")
+print("nuevo archivo de la comision 2 de la mañana del martes")
